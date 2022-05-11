@@ -49,8 +49,8 @@ return r;
 void main()
 {
 double a = 8, b = 10, e; int n = 100,c=10;
-cout « "e = ";
-cin » e;
+cout << "e = ";
+cin >> e;
 
-cout « endl « "X = " « f2(a, b, n, e,c);
+cout << endl << "X = " << f2(a, b, n, e,c);
 }
